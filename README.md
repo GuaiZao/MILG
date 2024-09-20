@@ -7,4 +7,5 @@ Results in Voxceleb2. We select four actors in Voxceleb2 randomly. It includes t
 We also provide the fine-tuning results of Wav2lip and directly training results of Wav2lip and LipGAN. 
 
 You can download the generated demo using link below:
+
 https://drive.google.com/file/d/1VqJ_fDKaP5keoeZSzLe68UE0CXYuxqFN/view?usp=drive_link
